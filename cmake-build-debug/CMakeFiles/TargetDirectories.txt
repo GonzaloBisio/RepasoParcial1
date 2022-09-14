@@ -1,3 +1,8 @@
-/home/gonzalo/Desktop/PG3/RepasoParcial1/cmake-build-debug/CMakeFiles/RepasoParcial1.dir
-/home/gonzalo/Desktop/PG3/RepasoParcial1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/gonzalo/Desktop/PG3/RepasoParcial1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/Desktop/CODE/UCC/PG3/RepasoParcial1/RepasoParcial1/cmake-build-debug/CMakeFiles/ejercicio1.dir
+C:/Users/Admin/Desktop/CODE/UCC/PG3/RepasoParcial1/RepasoParcial1/cmake-build-debug/CMakeFiles/ejercicio2.dir
+C:/Users/Admin/Desktop/CODE/UCC/PG3/RepasoParcial1/RepasoParcial1/cmake-build-debug/CMakeFiles/ejercicio4.dir
+C:/Users/Admin/Desktop/CODE/UCC/PG3/RepasoParcial1/RepasoParcial1/cmake-build-debug/CMakeFiles/ejercicio5.dir
+C:/Users/Admin/Desktop/CODE/UCC/PG3/RepasoParcial1/RepasoParcial1/cmake-build-debug/CMakeFiles/ejercicio6.dir
+C:/Users/Admin/Desktop/CODE/UCC/PG3/RepasoParcial1/RepasoParcial1/cmake-build-debug/CMakeFiles/ejercicio8.dir
+C:/Users/Admin/Desktop/CODE/UCC/PG3/RepasoParcial1/RepasoParcial1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Desktop/CODE/UCC/PG3/RepasoParcial1/RepasoParcial1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
